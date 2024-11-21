@@ -32,12 +32,14 @@ HDR-Image-Processing
 
 ### Prerequisites
 - Python 3.8 or higher installed on your system.
-
+  
 ### Steps
+## Getting Started
+
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/HDR-Image-Processing.git
-   cd HDR-Image-Processing
+   git clone https://github.com/ChillaleNaveen/Assignment3.git
+   cd Assignment3
 2. pip install -r requirements.txt #Install the required Python dependencies.
 3. streamlit run src/hdr_processing.py #Run the Streamlit application.
 
