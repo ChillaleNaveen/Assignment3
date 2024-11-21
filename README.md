@@ -26,6 +26,7 @@ HDR-Image-Processing
 ├── Report               # Project documentation and report 
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Instructions for running the demo
+├── Results              # resultant images of all possible combinations
 ```
 
 ## Setup and Installation
