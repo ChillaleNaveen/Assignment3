@@ -18,13 +18,15 @@ This project implements an HDR (High Dynamic Range) image processing pipeline th
   - Contrast-to-Noise Ratio (CNR)
 
 ## Folder Structure
-HDR-Image-Processing/ 
-├── src/ # Source code for HDR processing 
-│ └── hdr_processing.py # Main Python script 
-├── test_data/ # Test images for HDR processing 
-├── docs/ # Project documentation and report 
-├── requirements.txt # Python dependencies
-├── README.md# Instructions for running the demo
+
+```
+HDR-Image-Processing
+├── hdr_processing.py    # Main Python script 
+├── test_data            # Test images for HDR processing 
+├── Report               # Project documentation and report 
+├── requirements.txt     # Python dependencies
+├── README.md            # Instructions for running the demo
+```
 
 ## Setup and Installation
 
